@@ -67,24 +67,6 @@ Everything inside this repository is written and implemented by me while learnin
 
 </p>
 
----
-
-# 📂 Repository Structure
-
-```
-AI-SDET-Master-Class
-│
-├── Notes
-├── Exercises
-├── Projects
-├── Java
-├── Selenium
-├── Rest-Assured
-├── Playwright
-├── Resources
-├── Screenshots
-└── README.md
-```
 
 ---
 
@@ -103,32 +85,6 @@ Master:
 - Maven
 - CI/CD
 - Framework Design
-
----
-
-# 📅 Daily Learning Log
-
-Every study session includes:
-
-- ✔ Notes
-- ✔ Code
-- ✔ Assignments
-- ✔ Git Commits
-- ✔ Progress Update
-
----
-
-# ⭐ Milestones
-
-- [ ] Linux Completed
-- [ ] Git Completed
-- [ ] Java Completed
-- [ ] Postman Completed
-- [ ] Maven Completed
-- [ ] Rest Assured Completed
-- [ ] Selenium Completed
-- [ ] Playwright Completed
-- [ ] Framework Project Completed
 
 ---
 
